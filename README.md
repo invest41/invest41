@@ -22,5 +22,8 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 <h3>Contact</h3>
 | | |  
 |:--|:--|  
-| Location |<a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a>|  
+| Location | <a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a>|  
 |Email | alaodavid41@gmail.com |
+| Social | <a href="https://www.linkedin.com/in/david-alao-72362113b/">LinkedIn</a>|
+
+
