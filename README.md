@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/invest41/invest41)](https://github.com/invest41/invest41/issues)
+[![GitHub forks](https://img.shields.io/github/forks/invest41/invest41)](https://github.com/invest41/invest41/network)
+[![GitHub stars](https://img.shields.io/github/stars/invest41/invest41)](https://github.com/invest41/invest41/stargazers)
 # Hello 🤓
 
 **Welcome to my GitHub Profile 📔** <br/>
