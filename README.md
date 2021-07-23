@@ -1,18 +1,13 @@
-GitHub Home Page
 # Hello 🤓
 
-**Welcome to my GitHub Profile** <br/>
-I am **Alao David I.**, a Data Scientist with keen interest in problem solving with **Data Science** and Business Analytics.
+**Welcome to my GitHub Profile 📔** <br/>
+I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
 # Technical Skills 👨🏽‍💻
-| | |
-|:--|:--|
-| Python | <img src="https://www.python.org/static/img/python-logo@2x.png" width=200 height=100>|
-| SQL |<img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width=200 height=100>
-| MS-Excel | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsd09BaA-7OvTEVbMFpTwRkvNQO9FEAiCkA&usqp=CAU" width="200" height="100">
-| Tableau | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHQwEvARABSie148g-GgboHsDqe2Awq0obg&usqp=CAU" width="200" height="100">
-| Machine Learning | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYDhzR5vu8TiyJfKGFTwgKJZ-9gjVxNTN5Q7DaRxviqMut31AGu9eNR4&s=10" width="200" height="100">
-| Deep Learning | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMRMGBkSh5_7qvQMaj8M3hULDLArHS7eRw&usqp=CAU" width="200" height="100">
+| | | |
+|:--|:--|:--|
+|Python|SQL|MS-Excel|
+|Tableau|Machine Learning|Deep Learning|
 
 # About
 
@@ -20,25 +15,8 @@ I am **Alao David I.**, a Data Scientist with keen interest in problem solving w
 <br/>
 [My Resumé](https://github.com/invest41/Resume/blob/main/IMG_9326.jpeg)
 
-## About
-
-- 🔭 *I’m currently working on advances in healthcare*
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-
+### Internship Experience
+![Cert.](https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg)
 
 
 ### Contact
@@ -66,4 +44,4 @@ I am **Alao David I.**, a Data Scientist with keen interest in problem solving w
 
 
 
-**Pinned 📌 below are my favorite project 📖 highlights so far 😁**
+**👇🏽 Below are my favorite project 📖 highlights so far 😁**
