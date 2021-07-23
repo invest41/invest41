@@ -22,8 +22,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 <h3>Contact</h3>
 
 
-| | |
-|:--|:--|
-|location | <a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a> |
-|Email | alaodavid41@gmail.com |
-| Social | <a href="https://www.linkedin.com/in/david-alao-72362113b/">LinkedIn</a><br/><a href="https://www.kaggle.com/welcomehere">Kaggle</a>|
+| | | |
+|:--|:--|:--|
+|location | Email | Social |
+<a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a> | alaodavid41@gmail.com | <a href="https://www.linkedin.com/in/david-alao-72362113b/">LinkedIn</a><br/><a href="https://www.kaggle.com/welcomehere">Kaggle</a>|
