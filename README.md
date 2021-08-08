@@ -16,7 +16,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 # About
 |  |   |   |
 |:-|:--|:--|
-|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/IMG_9326.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|
+|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|
 ### Data Science Experience
 [<img width="550" height="450" src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" />](https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png)
 
