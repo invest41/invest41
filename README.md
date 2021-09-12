@@ -21,14 +21,30 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 [<img width="550" height="450" src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" />](https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png)
 
 
-<h3>Contact</h3>
+# Deployed
+> This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
+<br/>
+#### [Project Portfolio](https://invest41.github.io/AlaoDavid.github.io/)
+| | |
+|:-|:--|
+| ![Project Portfolio 1](https://user-images.githubusercontent.com/70070334/132600307-0b4ada7f-fcf3-4ade-baa6-0a44210d21a4.mp4) | ![Project Portfolio 2](https://user-images.githubusercontent.com/70070334/132600368-0d242548-c4b5-42da-85bc-96a11c728465.mp4) |
 
+
+#### [Assessing Risk of Heart Disease](https://cvs-disease.herokuapp.com)
+| |
+|:-|
+|![Assessing Risk of Heart Disease](https://user-images.githubusercontent.com/70070334/132600470-6c1e0199-b6f3-41ae-b9c8-431fa5629fc8.mp4) |
+
+#### [Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine](https://adv-vax.herokuapp.com/)
+| | |
+|:-|:--|
+| ![Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine 1](https://user-images.githubusercontent.com/70070334/132601635-f2090be6-b834-41b1-8428-64a11452c6f9.mp4) | ![Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine 2](https://user-images.githubusercontent.com/70070334/132602194-65665c8d-8e53-4fe9-867d-3e94f97d7241.mp4) |
+
+
+<h3>Contact</h3>
 
 | | | |
 |:--|:--|:--|
 |location | Email | Social |
 <a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a> | alaodavid41@gmail.com | [<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://invest41.github.io/AlaoDavid.github.io/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-alao-72362113b/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://invest41.github.io/AlaoDavid.github.io/)|
-
-
-
 
