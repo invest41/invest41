@@ -24,6 +24,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 # Deployed
 > This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
 <br/>
+
 #### [Project Portfolio](https://invest41.github.io/AlaoDavid.github.io/)
 | | |
 |:-|:--|
