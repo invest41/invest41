@@ -25,7 +25,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 
 <div align = "center">
 <a href = "https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png"> <img src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" /> <a/>
-<div />
+
 
 # Deployed
 > This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
@@ -48,7 +48,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 |:-|:-|
 | ![Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine 1](https://user-images.githubusercontent.com/70070334/132601635-f2090be6-b834-41b1-8428-64a11452c6f9.mp4) | <img width=650 src="https://user-images.githubusercontent.com/70070334/132602194-65665c8d-8e53-4fe9-867d-3e94f97d7241.mp4"/> |
 
-<div align = "center">
+<!--div align = "center" -->
 <h3>Contact</h3>
 
 | | | |
@@ -58,4 +58,4 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 
 
  <h3> Made with 💜 by <a href = "https://github.com/invest41/Resume"> Alao David I  <a/> <h3/> 
-<div />
+</div>
