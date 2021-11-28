@@ -51,3 +51,6 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 |location | Email | Social |
 <a href="https://maps.app.goo.gl/9ej8vPxqu2JeUyS4A">Ibadan, Nigeria 📍</a> | alaodavid41@gmail.com | [<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://invest41.github.io/AlaoDavid.github.io/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-alao-72362113b/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://invest41.github.io/AlaoDavid.github.io/)|
 
+<div align = "center">
+ <h3> Made with 💜 by <a href = "https://github.com/invest41/Resume"> Alao David I  <a/> <h3/> 
+<div />
