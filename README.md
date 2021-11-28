@@ -13,14 +13,16 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 |Python <a href="https://www.python.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>  |Tableau <a href="https://www.tableau.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" /></a>  |  MS-Excel <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg"/></a>  |
 |  SQL <a href="https://www.sqlite.org/index.html"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" /></a><a href="https://www.mysql.com"><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>  |  Machine Learning <a href="https://scikit-learn.org/stable/"><img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" /></a><a href="https://numpy.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" /></a><a href="https://pandas.pydata.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" /></a>|  Deep Learning <a href="https://www.tensorflow.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" /></a><a href="https://keras.io"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" /></a>|
 
-![image](https://user-images.githubusercontent.com/70070334/141488940-7817ba49-96a9-455c-bd9d-db76f59e0054.jpeg)
+| | |
+|:--|:--|
+|![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=invest41&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8) | ![image](https://user-images.githubusercontent.com/70070334/141488940-7817ba49-96a9-455c-bd9d-db76f59e0054.jpeg)|
 
 # About
 |  |   |   |
 |:-|:--|:--|
 |[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|
 ### Data Science Experience
-[<img width="550" height="450" src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" />](https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png)
+[<img src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" />](https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png)
 
 
 # Deployed
