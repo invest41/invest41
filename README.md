@@ -27,7 +27,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 <a href = "https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png"> <img src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" /> <a/>
 
 
-# Deployed
+# Deployed Projects
 > This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
 <br/>
 
