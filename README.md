@@ -5,7 +5,7 @@
 # Hello 🤓
 
 **Welcome to my GitHub Profile 📔** <br/>
-I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
+I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
 # [Technical Skills](https://invest41.github.io/AlaoDavid.github.io/) 👨🏽‍💻
 | | | | 
@@ -27,7 +27,7 @@ I am **Alao David I.**, a Data Scientist 🕵🏽‍♂️ with a keen interest 
 <a href = "https://truecertificates.com/secure/snapshot/YKUPNA4KYJ.png"> <img src="https://github.com/invest41/Resume/blob/main/IMG_9327.jpeg" /> <a/>
 
 
-# Deployed Projects
+# Deployed Projects  
 > This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
 <br/>
 
