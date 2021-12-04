@@ -1,10 +1,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/invest41/invest41)](https://github.com/invest41/invest41/issues)
 [![GitHub forks](https://img.shields.io/github/forks/invest41/invest41)](https://github.com/invest41/invest41/network)
 [![GitHub stars](https://img.shields.io/github/stars/invest41/invest41)](https://github.com/invest41/invest41/stargazers)
-![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00)
+
 # Hello 🤓
 
-**Welcome to my GitHub Profile 📔** <br/>
+**Welcome to my GitHub Profile 📔** ![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00) <br/>
 I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
 # [Technical Skills](https://invest41.github.io/AlaoDavid.github.io/) 👨🏽‍💻
