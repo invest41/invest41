@@ -17,10 +17,33 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 |:--|:--|
 |![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=invest41&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8) ![Stat](https://github-readme-stats.vercel.app/api?username=invest41&show_icons=true&theme=great-gatsby)| ![image](https://user-images.githubusercontent.com/70070334/141488940-7817ba49-96a9-455c-bd9d-db76f59e0054.jpeg)|
 
-# About
+# About  
+
 |  |   |   |
 |:-|:--|:--|
-|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|
+|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|  
+
+ <div align="left">
+  <table>
+    <tr>
+      <th>Package Released</th>
+      <th>Version</th>
+      <th>Downloads</th>
+      <th>Installation</th>
+      <th>Analysis</th>
+    </tr>
+    <tr>
+      <td><a href = "https://pypi.org/project/smart-dist/">smart-dist</a></td>
+      <td><a href="https://pypi.org/project/smart-dist/"><img src="https://img.shields.io/pypi/v/smart-dist?style=flat-square"/></a></td>
+      <td><a href="https://pepy.tech/project/smart-dist"><img src="https://pepy.tech/badge/smart-dist"/></a></td>
+      <td>pip install -U smart_dist</td>
+      <td><a href = "https://github.com/invest41/Exploring_Libraries/blob/main/Smart-dist_Package_Analysis.ipynb">smart-dist Analysis</a></td>
+    </tr>
+  </table>
+</div> 
+  
+  
+
 ### Data Science Experience
 
 <div align = "center">
