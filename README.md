@@ -31,6 +31,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <th>Downloads</th>
       <th>Installation</th>
       <th>Analysis</th>
+     <th>Details</th>
     </tr>
     <tr>
       <td><a href = "https://pypi.org/project/smart-dist/">smart-dist</a></td>
@@ -38,6 +39,15 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <td><a href="https://pepy.tech/project/smart-dist"><img src="https://pepy.tech/badge/smart-dist"/></a></td>
       <td>pip install -U smart_dist</td>
       <td><a href = "https://github.com/invest41/Exploring_Libraries/blob/main/Smart_dist_Package_Analysis.ipynb">smart-dist Analysis</a></td>
+      <td>
+       <img src="https://img.shields.io/pypi/l/smart-dist?style=flat-square"/>
+       <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=docs&prefix=v&query=%24.info.version&url=https%3A%2F%2Fpypi.org%2Fpypi%2Fsmart_dist%2Fjson&style=flat-square"/>
+       <!--img src="https://img.shields.io/pypi/pyversions/smart-dist?style=flat-square"/-->
+       <!--img src="https://app.codacy.com/project/badge/Coverage/ed658f08dcce4f088c850253475540ba"/-->
+       <!--img src="https://img.shields.io/codecov/c/github/sfu-db/smart-dist?style=flat-square"/-->
+       <!--img src="https://app.codacy.com/project/badge/Grade/ed658f08dcce4f088c850253475540ba"/-->
+       <!--img src="https://img.shields.io/discord/702765817154109472?style=flat-square"/-->
+     </td>
     </tr>
   </table>
 </div> 
