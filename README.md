@@ -37,7 +37,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <td><a href="https://pypi.org/project/smart-dist/"><img src="https://img.shields.io/pypi/v/smart-dist?style=flat-square"/></a></td>
       <td><a href="https://pepy.tech/project/smart-dist"><img src="https://pepy.tech/badge/smart-dist"/></a></td>
       <td>pip install -U smart_dist</td>
-      <td><a href = "https://github.com/invest41/Exploring_Libraries/blob/main/Smart-dist_Package_Analysis.ipynb">smart-dist Analysis</a></td>
+      <td><a href = "https://github.com/invest41/Exploring_Libraries/blob/main/Smart_dist_Package_Analysis.ipynb">smart-dist Analysis</a></td>
     </tr>
   </table>
 </div> 
