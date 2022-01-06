@@ -49,6 +49,22 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
        <!--img src="https://img.shields.io/discord/702765817154109472?style=flat-square"/-->
      </td>
     </tr>
+    <tr>
+      <td><a href = "https://pypi.org/project/VizPack/">VizPack</a></td>
+      <td><a href="https://pypi.org/project/VizPack/"><img src="https://img.shields.io/pypi/v/VizPack?style=flat-square"/></a></td>
+      <td><a href="https://pepy.tech/project/VizPack"><img src="https://pepy.tech/badge/VizPack"/></a></td>
+      <td>pip install -U VizPack</td>
+      <td><a href = "https://github.com/invest41/Exploring_Libraries/blob/main/VizPack.ipynb">VizPack Analysis</a></td>
+      <td>
+       <img src="https://img.shields.io/pypi/l/VizPack?style=flat-square"/>
+       <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=docs&prefix=v&query=%24.info.version&url=https%3A%2F%2Fpypi.org%2Fpypi%2FVizPack%2Fjson&style=flat-square"/>
+       <!--img src="https://img.shields.io/pypi/pyversions/smart-dist?style=flat-square"/-->
+       <!--img src="https://app.codacy.com/project/badge/Coverage/ed658f08dcce4f088c850253475540ba"/-->
+       <!--img src="https://img.shields.io/codecov/c/github/sfu-db/smart-dist?style=flat-square"/-->
+       <!--img src="https://app.codacy.com/project/badge/Grade/ed658f08dcce4f088c850253475540ba"/-->
+       <!--img src="https://img.shields.io/discord/702765817154109472?style=flat-square"/-->
+     </td>
+    </tr>
   </table>
 </div> 
   
