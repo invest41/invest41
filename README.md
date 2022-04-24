@@ -15,7 +15,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 
 | | |
 |:--|:--|
-|![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=invest41&show_icons=true&theme=great-gatsby&hide_border=true&langs_count=8) ![Stat](https://github-readme-stats.vercel.app/api?username=invest41&show_icons=true&theme=great-gatsby)| ![image](https://user-images.githubusercontent.com/70070334/141488940-7817ba49-96a9-455c-bd9d-db76f59e0054.jpeg)|
+|![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=invest41&show_icons=true&theme=dark&hide_border=true&langs_count=8) ![Stat](https://github-readme-stats.vercel.app/api?username=invest41&show_icons=true&theme=dark)| ![image](https://user-images.githubusercontent.com/70070334/141488940-7817ba49-96a9-455c-bd9d-db76f59e0054.jpeg)|
 
 # About  
 
