@@ -87,22 +87,22 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 > This is a section that contains the links/video preview to all my **deployed Webpages/Web application** 
 <br/>
 
-#### [Project Portfolio](https://invest41.github.io/AlaoDavid.github.io/)
+## [Project Portfolio](https://invest41.github.io/AlaoDavid.github.io/)
 | | |
 |:-|:-|
-| ![Project Portfolio 1](https://user-images.githubusercontent.com/70070334/132600307-0b4ada7f-fcf3-4ade-baa6-0a44210d21a4.mp4) | ![Project Portfolio 2](https://user-images.githubusercontent.com/70070334/132600368-0d242548-c4b5-42da-85bc-96a11c728465.mp4) |
+| ![Project_Portfolio_1](https://user-images.githubusercontent.com/70070334/167320307-c3f606f2-24b0-473f-bd2b-e7d157350982.gif) | ![Project_Portfolio_2](https://user-images.githubusercontent.com/70070334/167320373-637c800f-c9b9-49ad-b0af-45397eb3d273.gif) |
 
 
-#### [Assessing Risk of Heart Disease](https://cvs-disease.herokuapp.com)
+## [Assessing Risk of Heart Disease](https://cvs-disease.herokuapp.com)
 | |
 |:-|
-|![Assessing Risk of Heart Disease](https://user-images.githubusercontent.com/70070334/132600470-6c1e0199-b6f3-41ae-b9c8-431fa5629fc8.mp4) |
+|![Assessing_Risk_of_Heart_Disease](https://user-images.githubusercontent.com/70070334/167320461-7a7438bd-a495-405e-8feb-5bfac2573a3c.gif) |
 
 
-#### [Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine](https://adv-vax.herokuapp.com/)
+## [Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine](https://adv-vax.herokuapp.com/)
 | | |
 |:-|:-|
-| ![Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine 1](https://user-images.githubusercontent.com/70070334/132601635-f2090be6-b834-41b1-8428-64a11452c6f9.mp4) | <img width=650 src="https://user-images.githubusercontent.com/70070334/132602194-65665c8d-8e53-4fe9-867d-3e94f97d7241.mp4"/> |
+| ![Predict_Adverse_Vax_Reaction_1](https://user-images.githubusercontent.com/70070334/167320605-e5e39cc8-ef0e-4a46-8ef3-f18a2fc00ebb.gif) | ![Predict_Adverse_Vax_Reaction_2](https://user-images.githubusercontent.com/70070334/167320661-9fcd9a57-a37e-48f3-b36e-025aba67cc8d.gif) |
 
 <!--div align = "center" -->
 <h1>Contact</h1>
