@@ -47,6 +47,13 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <td><a href = "#">Top 3</a></td>
     </tr>
     <tr>
+      <td><a href = "https://www.kaggle.com/competitions/30-days-of-ml">30 days of ML</a></td>
+      <td><a href = "https://www.kaggle.com/">Kaggle&nbsp;<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" /></a></td>
+      <td><a href ="https://www.kaggle.com/competitions/30-days-of-ml/overview/description">Predicting Insurance Claim</a></td>
+      <td><a href = "https://www.kaggle.com/welcomehere/competitions">Finalist</a></td>
+      <td><a href = "https://www.kaggle.com/welcomehere/">Top 3% Globally</a></td>
+    </tr>
+    <tr>
       <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
       <td><a href = "https://online.alat.ng/">Alat by Wema</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
