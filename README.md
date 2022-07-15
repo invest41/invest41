@@ -44,7 +44,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <td><a href = "https://www.futurize.studio/">Futurize</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
       <td><a href = "https://drive.google.com/file/d/1TbdIONSE2RCIpI_g9XplImFJo6ybONuv/view">Finalist</a></td>
-      <td><a href = "#">Top 3</a></td>
+      <td><a href = "#">Top 3 (Africa)</a></td>
     </tr>
     <tr>
       <td><a href = "https://www.kaggle.com/competitions/30-days-of-ml">30 days of ML</a></td>
