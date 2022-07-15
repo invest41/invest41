@@ -25,6 +25,61 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 |:-|:--|:--|
 |[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://github.com/invest41/Resume/blob/main/6F771705-98AF-470A-AE08-497F628077C5.jpeg) | [Most Recent Project](https://cvs-disease.herokuapp.com/)|  
 
+
+<div align="left">
+  <table>
+    <tr>
+      <th>Hack Event</th>
+      <th>Organization</th>
+      <th>Project</th>
+      <th>Outcome</th>
+      <th>Rank</th>
+    </tr>
+    
+    <tr>
+      <td><a href = "https://www.futurize.studio/fuel-africa">Fuel Africa '22</a></td>
+      <td><a href = "https://www.futurize.studio/">Futurize</a></td>
+      <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
+      <td><a href = "https://drive.google.com/file/d/1TbdIONSE2RCIpI_g9XplImFJo6ybONuv/view">Finalist</a></td>
+      <td><a href = "#">Top 3</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
+      <td><a href = "https://online.alat.ng/">Alat by Wema</a></td>
+      <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
+      <td><a href = "#">Finalist</a></td>
+      <td><a href = "#">Top 10</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
+      <td><a href = "https://online.alat.ng/">Alat by Wema</a></td>
+      <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
+      <td><a href = "#">Finalist</a></td>
+      <td><a href = "#">Top 10</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href = "https://www.hacklabfoundation.org/blog/hacklab-nigeria-ends-with-12-scalable-ai-big-data-edge-solutions/">Hackathon 22</a></td>
+      <td><a href = "https://www.hacklabfoundation.org/">Hacklab Foundation</a></td>
+      <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
+      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Finalist</a></td>
+      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Top 5</a></td>
+    </tr>
+    
+    <tr>
+      <td><a href = "https://hackfest2022.genztechies.com/">Hackfest 2022</a></td>
+      <td><a href = "https://www.genztechies.com/">GenzTechies</a></td>
+      <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
+      <td><a href = "#">Finalist</a></td>
+      <td><a href = "#">Top 7</a></td>
+    </tr>
+  </table>
+</div>
+
+
+
  <div align="left">
   <table>
     <tr>
