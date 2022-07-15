@@ -65,14 +65,6 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     
     <tr>
-      <td><a href = "https://www.hacklabfoundation.org/blog/hacklab-nigeria-ends-with-12-scalable-ai-big-data-edge-solutions/">Hackathon 22</a></td>
-      <td><a href = "https://www.hacklabfoundation.org/">Hacklab Foundation</a></td>
-      <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
-      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Finalist</a></td>
-      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Top 5</a></td>
-    </tr>
-    
-    <tr>
       <td><a href = "https://hackfest2022.genztechies.com/">Hackfest 2022</a></td>
       <td><a href = "https://www.genztechies.com/">GenzTechies</a></td>
       <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
