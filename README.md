@@ -28,7 +28,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
  <div align="left">
   <table>
     <tr>
-      <th>Package Released</th>
+      <th>Software Released</th>
       <th>Version</th>
       <th>Downloads</th>
       <th>Installation</th>
