@@ -55,10 +55,10 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
-      <td><a href = "https://online.alat.ng/">Alat by Wema</a></td>
+      <td><a href = "https://online.alat.ng/">Alat by Wema (Wema Bank)</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
       <td><a href = "#">Finalist</a></td>
-      <td><a href = "#">Top 10</a></td>
+      <td><a href = "#">Top 10 (National Top 1%)</a></td>
     </tr>
     <tr>
       <td><a href = "https://www.hacklabfoundation.org/blog/hacklab-nigeria-ends-with-12-scalable-ai-big-data-edge-solutions/">Hackathon 22</a></td>
