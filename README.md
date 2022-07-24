@@ -3,9 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/invest41/invest41)](https://github.com/invest41/invest41/stargazers)
 
 
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=539BF5&size=25&height=60&lines=Hello+🤓;Welcome+aboard!)
 
-# Hello 🤓
-
+  
 **Welcome to my GitHub Profile 📔** ![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00) <br/>
 I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
