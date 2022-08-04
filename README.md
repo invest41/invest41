@@ -129,8 +129,10 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 
 
 
- [![Repo. Card](https://widget.realdeveloper.pro/api/card?user=invest41&repo=Studying_Reactions_to_Vaccines&locale=en)](https://github.com/invest41/Studying_Reactions_to_Vaccines)
+
 [![Repo. Card](https://widget.realdeveloper.pro/api/card?user=invest41&repo=Computer-Vision-in-Medicine&locale=en)](https://github.com/invest41/Computer-Vision-in-Medicine)
+[![Repo. Card](https://widget.realdeveloper.pro/api/card?user=Crinmatic&repo=Diacritic-Restoration&locale=en)](https://github.com/Crinmatic/Diacritic-Restoration)
+[![Repo. Card](https://widget.realdeveloper.pro/api/card?user=invest41&repo=Studying_Reactions_to_Vaccines&locale=en)](https://github.com/invest41/Studying_Reactions_to_Vaccines)
 [![Repo. Card](https://widget.realdeveloper.pro/api/card?user=invest41&repo=Trading_Analytics&locale=en)](https://github.com/invest41/Trading_Analytics)
  
  
