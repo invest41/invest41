@@ -23,7 +23,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
 
 |  |   |   |
 |:-|:--|:--|
-|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://drive.google.com/file/d/1wPT-Co5bFVAs6GMfxXDlAPJOmmcorkPn/view?usp=sharing) | [Sample Project](https://cvs-disease.herokuapp.com/)|  
+|[My Portfolio](https://invest41.github.io/AlaoDavid.github.io/) | [My Resumé](https://drive.google.com/file/d/1hNuNMRYn8TbS8Ui03A3sQbOp09A1HE5g/view?usp=drivesdk) | [Sample Project](https://cvs-disease.herokuapp.com/)|  
 
 ### Data Science Experience
 
