@@ -6,7 +6,7 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=539BF5&size=25&height=60&lines=Hello+🤓;Welcome+aboard!)
 
   
-**Welcome to my GitHub Profile 📔** ![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00) <br/>
+**Welcome to my GitHub Profile 📔** <!--![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00)--> <br/>
 I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
 # [Technical Skills](https://invest41.github.io/AlaoDavid.github.io/) 👨🏽‍💻
@@ -40,6 +40,20 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <th>Rank</th>
     </tr>
     <tr>
+      <td><a href = "https://www.sisonkebiotik.africa/events/ideathon">AI 4 HEALTH</a></td>
+      <td><a href = "https://www.sisonkebiotik.africa/home">SisonkeBiotik</a></td>
+      <td><a href ="https://drive.google.com/file/d/1CF8suyqDwzPQrgSlv0g4Zi0ZCyGVh77h/view?usp=sharing">HealthStack</a></td>
+      <td><a href = "https://drive.google.com/file/d/1CIjl_kfzEx2ruqHmj5SgV1Cp4ZOtL0I2/view?usp=sharing">Finalist</a></td>
+      <td><a href = "https://drive.google.com/file/d/1CIjl_kfzEx2ruqHmj5SgV1Cp4ZOtL0I2/view?usp=sharing">First (Africa)</a></td>
+    </tr>
+    <tr>
+      <td><a href = "https://www.futurize.studio/fuel-africa">Fuel Africa '23</a></td>
+      <td><a href = "https://www.futurize.studio/">Futurize</a></td>
+      <td><a href ="https://youtu.be/J_7JLRgpKTM?si=Xj1p2zcXnZclxzcz">TensorScan</a></td>
+      <td><a href = "https://drive.google.com/file/d/1mZGGO9EXbERuMho0IN8dqGatg6AQYID2/view?usp=sharing">Finalist</a></td>
+      <td><a href = "https://drive.google.com/file/d/1mZGGO9EXbERuMho0IN8dqGatg6AQYID2/view?usp=sharing">Top 3 (Africa)</a></td>
+    </tr>
+    <tr>
       <td><a href = "https://www.futurize.studio/fuel-africa">Fuel Africa '22</a></td>
       <td><a href = "https://www.futurize.studio/">Futurize</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
@@ -51,28 +65,28 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
       <td><a href = "https://www.kaggle.com/">Kaggle&nbsp;<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" /></a></td>
       <td><a href ="https://www.kaggle.com/competitions/30-days-of-ml/overview/description">Predicting Insurance Claim</a></td>
       <td><a href = "https://www.kaggle.com/welcomehere/competitions">Finalist</a></td>
-      <td><a href = "https://www.kaggle.com/welcomehere/">Top 3% Globally</a></td>
+      <td><a href = "https://www.kaggle.com/welcomehere/">Top 3% (Globally)</a></td>
     </tr>
     <tr>
       <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
       <td><a href = "https://online.alat.ng/">Alat by Wema (Wema Bank)</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
-      <td><a href = "#">Finalist</a></td>
-      <td><a href = "#">Top 10 (National Top 1%)</a></td>
+      <td><a href = "https://drive.google.com/file/d/1n3OETgvvXsT0sWgoLvwND4NecQL_30vL/view?usp=drivesdk">Finalist</a></td>
+      <td><a href = "https://drive.google.com/file/d/1n3OETgvvXsT0sWgoLvwND4NecQL_30vL/view?usp=drivesdk">Top 10 (National)</a></td>
     </tr>
     <tr>
       <td><a href = "https://www.hacklabfoundation.org/blog/hacklab-nigeria-ends-with-12-scalable-ai-big-data-edge-solutions/">Hackathon 22</a></td>
       <td><a href = "https://www.hacklabfoundation.org/">Hacklab Foundation</a></td>
       <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
       <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Finalist</a></td>
-      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Top 5</a></td>
+      <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Top 5 (National)</a></td>
     </tr>
     <tr>
       <td><a href = "https://hackfest2022.genztechies.com/">Hackfest 2022</a></td>
       <td><a href = "https://www.genztechies.com/">GenzTechies</a></td>
       <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
       <td><a href = "#">Finalist</a></td>
-      <td><a href = "#">Top 7</a></td>
+      <td><a href = "#">Top 7 (National)</a></td>
     </tr>
   </table>
 </div>
