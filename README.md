@@ -6,7 +6,7 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=539BF5&size=25&height=60&lines=Hello+🤓;Welcome+aboard!)
 
   
-**Welcome to my GitHub Profile 📔** <!--![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00)--> <br/>
+**Welcome to my GitHub Profile 📔** <!--![](https://visitor-badge.glitch.me/badge?page_id=invest41.invest41&style=flat-square&color=ffeb00)![](https://komarev.com/ghpvc/?username=invest41&label=Profile%20views&color=008080&style=flat%22%20alt=invest41)--> <br/>
 I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a keen interest in problem solving with **Data Science**, Research and Innovation.
 <br/><br/>
 # [Technical Skills](https://invest41.github.io/AlaoDavid.github.io/) 👨🏽‍💻
