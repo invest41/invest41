@@ -34,6 +34,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
   <table>
     <tr>
       <th>Hack Event</th>
+      <th>Year</th>
       <th>Organization</th>
       <th>Project</th>
       <th>Outcome</th>
@@ -41,6 +42,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://www.sisonkebiotik.africa/events/ideathon">AI 4 HEALTH</a></td>
+      <td><a href = "#">2023</a></td>
       <td><a href = "https://www.sisonkebiotik.africa/home">SisonkeBiotik</a></td>
       <td><a href ="https://drive.google.com/file/d/1CF8suyqDwzPQrgSlv0g4Zi0ZCyGVh77h/view?usp=sharing">HealthStack</a></td>
       <td><a href = "https://drive.google.com/file/d/1CIjl_kfzEx2ruqHmj5SgV1Cp4ZOtL0I2/view?usp=sharing">Finalist</a></td>
@@ -48,6 +50,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://www.futurize.studio/fuel-africa">Fuel Africa '23</a></td>
+      <td><a href = "#">2023</a></td>
       <td><a href = "https://www.futurize.studio/">Futurize</a></td>
       <td><a href ="https://youtu.be/J_7JLRgpKTM?si=Xj1p2zcXnZclxzcz">TensorScan</a></td>
       <td><a href = "https://drive.google.com/file/d/1mZGGO9EXbERuMho0IN8dqGatg6AQYID2/view?usp=sharing">Finalist</a></td>
@@ -55,6 +58,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://www.futurize.studio/fuel-africa">Fuel Africa '22</a></td>
+      <td><a href = "#">2022</a></td>
       <td><a href = "https://www.futurize.studio/">Futurize</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
       <td><a href = "https://drive.google.com/file/d/1TbdIONSE2RCIpI_g9XplImFJo6ybONuv/view">Finalist</a></td>
@@ -62,6 +66,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://www.kaggle.com/competitions/30-days-of-ml">30 days of ML</a></td>
+      <td><a href = "#">2021</a></td>
       <td><a href = "https://www.kaggle.com/">Kaggle&nbsp;<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" /></a></td>
       <td><a href ="https://www.kaggle.com/competitions/30-days-of-ml/overview/description">Predicting Insurance Claim</a></td>
       <td><a href = "https://www.kaggle.com/welcomehere/competitions">Finalist</a></td>
@@ -69,6 +74,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://hackaholics.wemabank.com/">Hackaolics 3.0</a></td>
+      <td><a href = "#">2022</a></td>
       <td><a href = "https://online.alat.ng/">Alat by Wema (Wema Bank)</a></td>
       <td><a href ="http://research.ui.edu.ng/ui-pharmacy-students-win-fuel-africa-2022">HealthBloc</a></td>
       <td><a href = "https://drive.google.com/file/d/1n3OETgvvXsT0sWgoLvwND4NecQL_30vL/view?usp=drivesdk">Finalist</a></td>
@@ -76,6 +82,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://www.hacklabfoundation.org/blog/hacklab-nigeria-ends-with-12-scalable-ai-big-data-edge-solutions/">Hackathon 22</a></td>
+      <td><a href = "#">2022</a></td>
       <td><a href = "https://www.hacklabfoundation.org/">Hacklab Foundation</a></td>
       <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
       <td><a href = "https://twitter.com/hacklabfdn/status/1536046622798389248/photo/1">Finalist</a></td>
@@ -83,6 +90,7 @@ I am **Alao David I.**, a Full-Stack Data Scientist 🕵🏽‍♂️ with a kee
     </tr>
     <tr>
       <td><a href = "https://hackfest2022.genztechies.com/">Hackfest 2022</a></td>
+      <td><a href = "#">2022</a></td>
       <td><a href = "https://www.genztechies.com/">GenzTechies</a></td>
       <td><a href ="https://github.com/invest41/Tensorscan">TensorScan</a></td>
       <td><a href = "#">Finalist</a></td>
