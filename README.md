@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/invest41/invest41)](https://github.com/invest41/invest41/issues)
 [![GitHub forks](https://img.shields.io/github/forks/invest41/invest41)](https://github.com/invest41/invest41/network)
 [![GitHub stars](https://img.shields.io/github/stars/invest41/invest41)](https://github.com/invest41/invest41/stargazers)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=invest41&label=Profile%20views&color=0e75b6&style=flat" alt="invest41" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=invest41&label=recent%20profile%20views&color=0e75b6&style=flat" alt="invest41" /> </p>
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=539BF5&size=25&height=60&lines=Hello+🤓;Welcome+aboard!)
 
